@@ -18,6 +18,9 @@ def Meta(Data):
     Information['AssemblyName'] = 'template' # Mod name
     Information['AssemblyDescription'] = 'A template for your mod' # Enter description here
     Information['AssemblyVersion'] = '1.0.0' # Mod version
+    Information['AssemblyAuthor'] = 'Your Name' # Change this to your name (optional)
+    Information['AssemblyCompany'] # Add company here (optional)
+    Information['AssemblyDate] # Add date here (optional)
 def Main():
     print('Mod Loaded') # Enter your code here
 
