@@ -21,6 +21,8 @@ def Meta(Data):
     Information['AssemblyAuthor'] = 'Your Name' # Change this to your name (optional)
     Information['AssemblyCompany'] # Add company here (optional)
     Information['AssemblyDate'] # Add date here (optional)
+    Information['AssemblyLicense'] # License (optional)
+    Information['AssemblyOrganizationType'] = 'com' # Add company type here (optional)
 def Main():
     print('Mod Loaded') # Enter your code here
 
